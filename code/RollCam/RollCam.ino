@@ -2,8 +2,8 @@
 #include <eloquent_esp32cam/extra/esp32/wifi/sta.h>
 #include <eloquent_esp32cam/viz/image_collection.h>
 
-#define WIFI_SSID "krenova"
-#define WIFI_PASS "1234567895"
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "PASSWORD"
 #define HOSTNAME "esp32cam"
 
 using eloq::camera;
